@@ -1,0 +1,22 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Que bom que você veio",
+      "autoria": "Nay",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Dois corpos não pode ocupar o mesmo lugar no espaço.",
+      "autoria": "Nilton",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Como é bom e agradável quando nós irmãos, convivemos em união.",
+      "autoria": "Salmo",
+      "modelo": "modelo3"
+    }
+  ]
+}
