@@ -2,14 +2,14 @@
   "pensamentos": [
     {
       "id": 1,
-      "conteudo": "Que bom que você veio",
+      "conteudo": "Que bom que você veio, tomaria uma xicara de café?",
       "autoria": "Nay",
       "modelo": "modelo1"
     },
     {
       "id": 2,
       "conteudo": "Dois corpos não pode ocupar o mesmo lugar no espaço.",
-      "autoria": "Nilton",
+      "autoria": "Newton",
       "modelo": "modelo2"
     },
     {
@@ -17,6 +17,24 @@
       "conteudo": "Como é bom e agradável quando nós irmãos, convivemos em união.",
       "autoria": "Salmo",
       "modelo": "modelo3"
+    },
+    {
+      "conteudo": "Teste 02 - verificando o router.navigate",
+      "autoria": "dev",
+      "modelo": "modelo3",
+      "id": 4
+    },
+    {
+      "conteudo": "Teste 02 - verificando o modelo do card",
+      "autoria": "dev",
+      "modelo": "modelo2",
+      "id": 5
+    },
+    {
+      "conteudo": "Teste 02 - verificando o modelo do card",
+      "autoria": "dev",
+      "modelo": "modelo3",
+      "id": 6
     }
   ]
 }
